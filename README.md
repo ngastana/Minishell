@@ -1,6 +1,6 @@
 # 🐚 Minishell
 
-la mini con el eneko: rebuilding your own **mini version of Bash** 💻
+la mini con el eneko: rebuilding our own **mini version of Bash** 💻
 
 It must:
 - Display a prompt and wait for user input 💬  
